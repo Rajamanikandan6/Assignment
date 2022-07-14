@@ -15,7 +15,7 @@ public class DatatoCSV {
 	public void CreateReport() throws ClassNotFoundException, SQLException, IOException {
 		DbConnection db = new DbConnection();
 		
-		String path1 ="C:\\Users\\rajamanikandanso\\eclipse-workspace\\DbExercise\\src\\report";
+		String path1 ="..\\DbExercise\\report";
 		String path2 =path1+"\\success_report.csv";
 		
 		File file1 = new File(path1);
@@ -25,7 +25,7 @@ public class DatatoCSV {
         File csvFilePath = new File(path2); 
         
         
-        String path3 ="C:\\Users\\rajamanikandanso\\eclipse-workspace\\DbExercise\\src\\report";
+        String path3 ="..\\DbExercise\\report";
 		String path4 =path3+"\\failed_report.csv";
 		
 		File file2 = new File(path3);

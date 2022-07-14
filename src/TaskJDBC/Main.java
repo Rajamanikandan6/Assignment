@@ -36,7 +36,7 @@ public class Main {
 		
 		DbConnection db = new DbConnection();
 		
-		String path = "C:\\Users\\rajamanikandanso\\Downloads\\employee.csv";
+		String path = "..\\DbExercise\\employee.csv";
 		
 		
 		BufferedReader br = new BufferedReader(new FileReader(path));
