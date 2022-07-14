@@ -1,0 +1,51 @@
+EMPLOYEE_ID,NAME,EMAIL,JOB_NAME,DEPARTMENT,MANAGER_NAME
+100,Steven King,SKING@abc.com,President,Executive,Steven King
+101,Neena Kochhar,NKOCHHAR@abc.com,Administration Vice President,Executive,Steven King
+102,Lex De Haan,LDEHAAN@abc.com,Administration Vice President,Executive,Steven King
+103,Alexander Hunold,AHUNOLD@abc.com,Programmer,IT,Lex De Haan
+104,Bruce Ernst,BERNST@abc.com,Programmer,IT,Alexander Hunold
+105,David Austin,DAUSTIN@abc.com,Programmer,IT,Alexander Hunold
+106,Valli Pataballa,VPATABAL@abc.com,Programmer,IT,Alexander Hunold
+107,Diana Lorentz,DLORENTZ@abc.com,Programmer,IT,Alexander Hunold
+108,Nancy Greenberg,NGREENBE@abc.com,Finance Manager,Finance,Neena Kochhar
+109,Daniel Faviet,DFAVIET@abc.com,Accountant,Finance,Nancy Greenberg
+110,John Chen,JCHEN@abc.com,Accountant,Finance,Nancy Greenberg
+111,Ismael Sciarra,ISCIARRA@abc.com,Accountant,Finance,Nancy Greenberg
+112,Jose Manuel Urman,JMURMAN@abc.com,Accountant,Finance,Nancy Greenberg
+113,Luis Popp,LPOPP@abc.com,Accountant,Finance,Nancy Greenberg
+114,Den Raphaely,DRAPHEAL@abc.com,Purchasing Manager,Purchasing,Steven King
+115,Alexander Khoo,AKHOO@abc.com,Purchasing Clerk,Purchasing,Den Raphaely
+116,Shelli Baida,SBAIDA@abc.com,Purchasing Clerk,Purchasing,Den Raphaely
+117,Sigal Tobias,STOBIAS@abc.com,Purchasing Clerk,Purchasing,Den Raphaely
+118,Guy Himuro,GHIMURO@abc.com,Purchasing Clerk,Purchasing,Den Raphaely
+119,Karen Colmenares,KCOLMENA@abc.com,Purchasing Clerk,Purchasing,Den Raphaely
+120,Matthew Weiss,MWEISS@abc.com,Stock Manager,Shipping,Steven King
+121,Adam Fripp,AFRIPP@abc.com,Stock Manager,Shipping,Steven King
+122,Payam Kaufling,PKAUFLIN@abc.com,Stock Manager,Shipping,Steven King
+123,Shanta Vollman,SVOLLMAN@abc.com,Stock Manager,Shipping,Steven King
+124,Kevin Mourgos,KMOURGOS@abc.com,Stock Manager,Shipping,Steven King
+125,Julia Nayer,JNAYER@abc.com,Stock Clerk,Shipping,Matthew Weiss
+126,Irene Mikkilineni,IMIKKILI@abc.com,Stock Clerk,Shipping,Matthew Weiss
+127,James Landry,JLANDRY@abc.com,Stock Clerk,Shipping,Matthew Weiss
+128,Steven Markle,,Stock Clerk,Shipping,Matthew Weiss
+129,Laura Bissot,,Stock Clerk,Shipping,Adam Fripp
+130,Mozhe Atkinson,MATKINSO@gmail.com,Stock Clerk,Shipping,Adam Fripp
+131,James Marlow,JAMRLOW@abc.com,Stock Clerk,Shipping,Adam Fripp
+132,TJ Olson,TJOLSON@abc.com,Stock Clerk,Shipping,Adam Fripp
+133,Jason Mallin,JMALLIN@abc.com,Stock Clerk,Shipping,Payam Kaufling
+134,Michael Rogers,MROGERS@abc.com,Stock Clerk,Shipping,Payam Kaufling
+135,Ki Gee,KGEE@abc.com,Stock Clerk,Shipping,Payam Kaufling
+136,Hazel Philtanker,HPHILTAN@abc.com,Stock Clerk,Shipping,Payam Kaufling
+137,Renske Ladwig,RLADWIG@abc.com,Stock Clerk,Shipping,Shanta Vollman
+138,Stephen Stiles,SSTILES@abc.com,Stock Clerk,Shipping,Shanta Vollman
+139,John Seo,JSEO@abc.com,Stock Clerk,Shipping,Shanta Vollman
+140,Joshua Patel,JPATEL@abc.com,Stock Clerk,Shipping,Shanta Vollman
+198,Donald Oconnell,DOCONNEL@gmail.com,Shipping Clerk,Shipping,Kevin Mourgos
+199,Douglas Grant,DGRANT@abc.com,Shipping Clerk,Shipping,Kevin Mourgos
+200,Jennifer Whalen,JWHALEN@abc.com,Administration Assistant,Administration,Neena Kochhar
+201,Michael Hartstein,MHARTSTE@abc.com,Marketing Manager,Marketing,Steven King
+202,Pat Fay,PFAY@abc.com,Marketing Representative,Marketing,Michael Hartstein
+203,Susan Mavris,SMAVRIS@abc.com,Human Resources Representative,Human Resources,Neena Kochhar
+204,Hermann Baer,HBAER@abc.com,Public Relations Representative,Public Relations,Neena Kochhar
+205,Shelley Higgins,SHIGGINS@abc.com,Accounting Manager,Accounting,Neena Kochhar
+206,William Gietz,WGIETZ@abc.com,Public Accountant,Accounting,Shelley Higgins
